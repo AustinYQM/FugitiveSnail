@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FugitiveSnail/static/css/main.073c9b0a.css",
+    "main.js": "/FugitiveSnail/static/js/main.9331ebf5.js",
+    "static/js/787.c20a647b.chunk.js": "/FugitiveSnail/static/js/787.c20a647b.chunk.js",
+    "static/media/logo.svg": "/FugitiveSnail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FugitiveSnail/index.html",
+    "main.073c9b0a.css.map": "/FugitiveSnail/static/css/main.073c9b0a.css.map",
+    "main.9331ebf5.js.map": "/FugitiveSnail/static/js/main.9331ebf5.js.map",
+    "787.c20a647b.chunk.js.map": "/FugitiveSnail/static/js/787.c20a647b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9331ebf5.js"
+  ]
+}
